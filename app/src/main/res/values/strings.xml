@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FloatBot</string>
+    <string name="accessibility_description">FloatBot 需要無障礙權限以顯示懸浮控制條、讀取畫面控件並執行自動化腳本。</string>
+</resources>
